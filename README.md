@@ -27,7 +27,7 @@ Final-Git/
 ## ⚙️ Setup
 **1. Clone the repo**
 ```bash
-git clone https://github.com/rayed_rah/Insta-nt.git
+git clone https://github.com/rayedrah/Insta-nt.git
 cd Insta-nt
 ```
 **2. Install dependencies**
