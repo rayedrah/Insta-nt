@@ -35,8 +35,8 @@ Final-Git/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/rayed_rah/Insta-nt.git
+cd Insta-nt
 ```
 
 **2. Run the setup script**
